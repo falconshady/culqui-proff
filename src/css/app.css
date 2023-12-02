@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-login-left-upper{
+    background-image: url("/public/images/login.png");
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
